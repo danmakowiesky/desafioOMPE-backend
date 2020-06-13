@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/danmakowiesky/desafioOMPE-backend.git",
   "author": "danielmakowiesky <dvm1993@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
