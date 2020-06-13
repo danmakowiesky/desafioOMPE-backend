@@ -1,0 +1,9 @@
+{
+  "name": "desafioOMPE-backend",
+  "version": "1.0.0",
+  "description": "Desafio para vaga de desenvolvedor na gestaopme",
+  "main": "index.js",
+  "repository": "https://github.com/danmakowiesky/desafioOMPE-backend.git",
+  "author": "danielmakowiesky <dvm1993@hotmail.com>",
+  "license": "MIT"
+}
