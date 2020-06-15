@@ -1,1 +1,1 @@
-web: nodemon src/app.js
+web: yarn dev
