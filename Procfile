@@ -1,1 +1,1 @@
-web: yarn dev
+web: node -r sucrase/register src/server.js
